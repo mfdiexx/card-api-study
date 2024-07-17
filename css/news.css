@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-.wrap {
+#news-container {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
