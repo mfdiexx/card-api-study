@@ -2,7 +2,7 @@
 
 ## 1.1 비동기 작업
 
-- Fetch API 기본형ㅋ
+- Fetch API 기본형
 
 ```js
 window.addEventListener("load", function () {
